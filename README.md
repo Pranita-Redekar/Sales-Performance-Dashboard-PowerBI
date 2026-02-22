@@ -23,11 +23,11 @@ It enables stakeholders to monitor key performance indicators (KPIs), evaluate p
 <h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
 
 Sales-driven businesses generate large volumes of transactional data but often lack a centralized system to analyze it effectively. Decision-makers require quick answers to questions such as:<br>
-Which products are generating the highest sales?<br>
-What is the total net and gross revenue?<br>
-How do sales vary day by day?<br>
-Which states contribute the most to overall revenue?<br>
-What percentage of orders are successful, pending, or failed?<br>
+-Which products are generating the highest sales?<br>
+-What is the total net and gross revenue?<br>
+-How do sales vary day by day?<br>
+-Which states contribute the most to overall revenue?<br>
+-What percentage of orders are successful, pending, or failed?<br>
 Without an interactive dashboard, extracting such insights becomes manual, time-consuming, and inefficient.<br>
 This project solves the problem by presenting all key sales insights in a single, interactive Power BI dashboard that allows dynamic filtering and quick performance monitoring.
 
