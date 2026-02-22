@@ -34,7 +34,7 @@ This project solves the problem by presenting all key sales insights in a single
 
 
 <h2><a class="anchor" id="dataset">Dataset</a></h2>
-<a href="https://github.com/Pranita-Redekar/Food-Delivery-Dashboard-PowerBI/tree/main/Sales%20Data">View Dataset</a>
+<a href="https://github.com/Pranita-Redekar/Sales-Performance-Dashboard-PowerBI/tree/main/Dataset">View Dataset</a>
 
 
 <h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
