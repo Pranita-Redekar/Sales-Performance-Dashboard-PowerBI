@@ -56,7 +56,7 @@ The dashboard includes:<br>
 -Net Amount by State Pie Chart: Shows revenue distribution across states.<br>
 -Gross Amount by Day Bar Chart: Compares daily revenue performance.<br>
 -Order Status Filter Panel: Allows filtering by Success, Pending, or Failed orders for interactive analysis.<br>
-<a href="https://github.com/Pranita-Redekar/Food-Delivery-Dashboard-PowerBI/tree/main/Dashboard" > View Dashboard</a>
+<a href="https://github.com/Pranita-Redekar/Sales-Performance-Dashboard-PowerBI/tree/main/Dashboard" > View Dashboard</a>
 
 
 <h2><a class="anchor" id="final-result"></a>Result</h2>
